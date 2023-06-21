@@ -6,7 +6,7 @@ This is an application that will create a randomly generated password fitting yo
 
 https://robertc91.github.io/Password_Challenge/
 
-![Alt text](<02-Challenge/Assets/PW Generator.png>)
+![Alt text](<images/PW Generator.png>)
 
 ## Installation
 
