@@ -1,5 +1,6 @@
 // list of all possible characters line 2-100
-var capital = [
+// add a .split
+let capital = [
   'A',
   'B',
   'C',
@@ -28,7 +29,8 @@ var capital = [
   'Z',
 ]
 
-var lower = ['a', 
+let lower = [
+  'a', 
   'b', 
   'c', 
   'd', 
@@ -56,7 +58,7 @@ var lower = ['a',
   'z'
 ]
 
-var numbers = [
+let numbers = [
   '0', 
   '1', 
   '2', 
@@ -69,7 +71,7 @@ var numbers = [
   '9'
 ];
 
-var special = [
+let special = [
   '!',
   '#',
   '$',
@@ -103,10 +105,10 @@ var special = [
 
 
 function determineTheUsersPW() {
-  var length = parseInt(
+  var length = parseInt (
   prompt("Please choose your password length between 8 - 128")
-  );
-    // input conditional for limit
+  );   
+    
   var hasSpecial = confirm(
     "Click OK if you want special characters."
   );
