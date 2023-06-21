@@ -4,7 +4,7 @@
 
 This is an application that will create a randomly generated password fitting your specific criteria.
 
-https://robertc91.github.io/Password_Challenge/
+https://robertc91.github.io/Generator-Challenge/
 
 ![Alt text](<images/PW Generator.png>)
 
